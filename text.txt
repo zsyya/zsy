@@ -1,4 +1,4 @@
      git rm link.txt
      git reset head link.txt
      git checkout -- link.txt
-	 123456789
+	 12345678910
